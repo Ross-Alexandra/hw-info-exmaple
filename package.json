@@ -1,11 +1,11 @@
 {
-  "name": "electron-react-template",
+  "name": "hw-info-example",
   "version": "0.1.0",
   "private": true,
   "homepage": ".",
   "main": "build/electron/main.js",
   "author": "Ross Alexandra",
-  "description": "A GH template for my Electron/React apps.",
+  "description": "An proof of concept for pulling hardware info from a user's computer",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

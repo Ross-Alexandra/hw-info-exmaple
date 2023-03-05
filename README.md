@@ -1,12 +1,5 @@
-# React frontend template
-
-## Template Info
-A GH template for my Electron/React apps. Automatically packages:
- - @ross-alexandra/react-utilities
- - lodash
- - @emotion/styled
-
-This react template uses Typescript, ESlint, & Jest.
+# Hardware Info Example
+A proof of concept application to pull a user's hardware info.
 
 ## Exporting API functions
 This repo is setup so that any functions exported from `electron/api-functions` will
