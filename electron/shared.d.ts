@@ -11,5 +11,5 @@ type ApiFunction<T extends Array<unknown>, U> = {
 };
 
 interface API {
-    exampleFunction: ApiFunction<[string, number], {result: 'success' | 'failure'}>;
+    getHardwareInfo: ApiFunction<[], Record<string, unknown>>;
 }
